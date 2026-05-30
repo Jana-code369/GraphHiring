@@ -31,44 +31,8 @@ Produces an explainable ranking for recruiters.
 This enables recruiters to identify candidates who are genuinely suitable for a role, even when exact keywords are not present.
 ##ARCHITECTURE DIAGRAM:
 
-+------------------+
-| Job Description  |
-+------------------+
-          |
-          v
-+------------------+
-| Semantic Analysis|
-+------------------+
-          |
-          v
-+------------------+
-| Resume Parser    |
-+------------------+
-          |
-          v
-+------------------+
-| Skill Extraction |
-+------------------+
-          |
-          v
-+----------------------+
-| Behavioral Analysis  |
-+----------------------+
-          |
-          v
-+----------------------+
-| Ranking Engine       |
-+----------------------+
-          |
-          v
-+----------------------+
-| Candidate Ranking    |
-+----------------------+
-          |
-          v
-+----------------------+
-| Streamlit Dashboard  |
-+----------------------+
+<img width="1536" height="1024" alt="hackpgt" src="https://github.com/user-attachments/assets/ca97dce2-146f-4006-8e2b-24e4fd4c94fc" />
+
 
 ##Features:
 Resume Parsing
