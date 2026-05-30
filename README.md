@@ -163,6 +163,9 @@ Top-ranked candidates are recommended to recruiters.
       <img width="1466" height="1018" alt="image" src="https://github.com/user-attachments/assets/77225d67-92fb-4134-b93b-55cfda668985" />
     LAUNCHING DASHBOARD:
        <img width="1912" height="987" alt="image" src="https://github.com/user-attachments/assets/90437e0a-15ec-4280-8495-81fa9f929cde" />
+    RANKED CANDIDATES LIST:
+       <img width="832" height="112" alt="image" src="https://github.com/user-attachments/assets/abd0d7d0-a10a-4f17-883e-02975281e38a" />
+
 ## Demo Instructions:
 Scenario
 
