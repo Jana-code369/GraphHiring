@@ -1,0 +1,5 @@
+We are hiring a Machine Learning Engineer with experience in Python, NLP, Deep Learning, AWS, and Docker.
+
+The candidate should demonstrate leadership, ownership, problem-solving skills, and collaboration experience.
+
+Experience with TensorFlow or PyTorch is preferred.

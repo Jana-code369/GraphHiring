@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+sentence-transformers
+transformers
+torch
+faiss-cpu
+networkx
+spacy
+pdfplumber
+PyPDF2
+streamlit
+plotly
+openai
+python-dotenv
