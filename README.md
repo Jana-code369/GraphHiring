@@ -137,7 +137,7 @@ Place resumes in:
 data/resumes/
 Step 3
 
-Generate Candidate Rankings
+## Generate Candidate Rankings-TO RUN IN THE TERMINAL
 
 python main.py
 
@@ -146,7 +146,7 @@ Output:
 data/outputs/ranked_candidates.csv
 Step 4
 
-## Launch Dashboard
+## Launch Dashboard-TO RUN IN THE TERMINAL
 
 streamlit run src/app.py
 
@@ -215,4 +215,5 @@ Larger batches may take longer depending on system resources
 Recommended maximum: 5 MB per resume
 Note:
 Candidate rankings are AI-generated recommendations and should be reviewed by recruiters before making hiring decisions.
+python main.py
 
