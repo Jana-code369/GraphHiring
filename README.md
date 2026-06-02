@@ -137,7 +137,8 @@ Place resumes in:
 data/resumes/
 Step 3
 
-## Generate Candidate Rankings-TO RUN IN THE TERMINAL
+## Generate Candidate Rankings
+TO RUN IN THE TERMINAL:
 
 python main.py
 
@@ -146,7 +147,8 @@ Output:
 data/outputs/ranked_candidates.csv
 Step 4
 
-## Launch Dashboard-TO RUN IN THE TERMINAL
+## Launch Dashboard-
+TO RUN IN THE TERMINAL:
 
 streamlit run src/app.py
 
